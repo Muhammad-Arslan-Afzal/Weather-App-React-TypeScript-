@@ -1,0 +1,25 @@
+.main {
+  background: url("../../assets/tom-barrett-hgGplX3PFBg-unsplash.jpg");
+  background-size: cover;
+  /* opacity: 0.8; */
+  text-align: center;
+  padding-top: 3rem;
+  height: 100vh;
+}
+
+.main input {
+  width: 200px;
+  padding: 0.8rem 1.5rem;
+  border-radius: 15px;
+  margin-right: 10px;
+}
+
+.main button {
+  background-color: rgb(204, 203, 203);
+  padding: 0.7rem 1rem;
+  border-radius: 10px;
+  transition: 0.3s all ease-in-out;
+}
+.main button:hover {
+  background-color: rgb(221, 219, 219);
+}
